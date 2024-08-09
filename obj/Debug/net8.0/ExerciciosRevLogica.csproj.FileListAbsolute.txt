@@ -1,0 +1,15 @@
+C:\Users\51915337801\Desktop\ExerciciosRevLogica\bin\Debug\net8.0\ExerciciosRevLogica.exe
+C:\Users\51915337801\Desktop\ExerciciosRevLogica\bin\Debug\net8.0\ExerciciosRevLogica.deps.json
+C:\Users\51915337801\Desktop\ExerciciosRevLogica\bin\Debug\net8.0\ExerciciosRevLogica.runtimeconfig.json
+C:\Users\51915337801\Desktop\ExerciciosRevLogica\bin\Debug\net8.0\ExerciciosRevLogica.dll
+C:\Users\51915337801\Desktop\ExerciciosRevLogica\bin\Debug\net8.0\ExerciciosRevLogica.pdb
+C:\Users\51915337801\Desktop\ExerciciosRevLogica\obj\Debug\net8.0\ExerciciosRevLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51915337801\Desktop\ExerciciosRevLogica\obj\Debug\net8.0\ExerciciosRevLogica.AssemblyInfoInputs.cache
+C:\Users\51915337801\Desktop\ExerciciosRevLogica\obj\Debug\net8.0\ExerciciosRevLogica.AssemblyInfo.cs
+C:\Users\51915337801\Desktop\ExerciciosRevLogica\obj\Debug\net8.0\ExerciciosRevLogica.csproj.CoreCompileInputs.cache
+C:\Users\51915337801\Desktop\ExerciciosRevLogica\obj\Debug\net8.0\ExerciciosRevLogica.sourcelink.json
+C:\Users\51915337801\Desktop\ExerciciosRevLogica\obj\Debug\net8.0\ExerciciosRevLogica.dll
+C:\Users\51915337801\Desktop\ExerciciosRevLogica\obj\Debug\net8.0\refint\ExerciciosRevLogica.dll
+C:\Users\51915337801\Desktop\ExerciciosRevLogica\obj\Debug\net8.0\ExerciciosRevLogica.pdb
+C:\Users\51915337801\Desktop\ExerciciosRevLogica\obj\Debug\net8.0\ExerciciosRevLogica.genruntimeconfig.cache
+C:\Users\51915337801\Desktop\ExerciciosRevLogica\obj\Debug\net8.0\ref\ExerciciosRevLogica.dll
